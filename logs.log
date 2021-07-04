@@ -1,3 +1,9 @@
 2021-07-04 23:17:17,499 INFO SampleTest [main] Драйвер стартовал!
 2021-07-04 23:17:24,094 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
 2021-07-04 23:17:25,188 INFO SampleTest [main] Драйвер остановлен!
+2021-07-05 02:22:03,105 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-05 02:22:29,863 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° DNS - https://www.dns-shop.ru/
+2021-07-05 02:22:31,061 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-05 02:30:01,788 INFO SampleTest [main] Драйвер стартовал!
+2021-07-05 02:30:25,258 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-05 02:30:26,109 INFO SampleTest [main] Драйвер остановлен!
