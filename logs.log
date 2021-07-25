@@ -7,3 +7,589 @@
 2021-07-05 02:30:01,788 INFO SampleTest [main] Драйвер стартовал!
 2021-07-05 02:30:25,258 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
 2021-07-05 02:30:26,109 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 06:06:25,519 INFO SampleTest [main] env = firefox
+2021-07-25 06:06:31,632 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Mozilla Firefox
+2021-07-25 06:09:27,957 INFO SampleTest [main] env = firefox
+2021-07-25 06:09:32,715 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Mozilla Firefox
+2021-07-25 06:09:49,341 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-25 06:10:23,721 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° DNS - https://www.dns-shop.ru/
+2021-07-25 06:10:30,366 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-25 06:10:54,915 INFO SampleTest [main] env = chrome
+2021-07-25 06:10:56,766 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Google Chrome
+2021-07-25 06:11:36,512 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-25 06:12:02,950 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° DNS - https://www.dns-shop.ru/
+2021-07-25 06:12:04,462 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-25 06:15:34,760 INFO SampleTest [main] env = chrome
+2021-07-25 06:15:36,400 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Google Chrome
+2021-07-25 06:15:55,295 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-25 06:16:14,647 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° DNS - https://www.dns-shop.ru/
+2021-07-25 06:16:16,451 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-25 06:17:09,967 INFO SampleTest [main] env = 'firefox'
+2021-07-25 06:24:32,402 INFO SampleTest [main] env = 'chrome'
+2021-07-25 06:26:29,990 INFO SampleTest [main] env = firefox
+2021-07-25 06:26:31,724 INFO WebDriverFactory [main] Драйвер для браузера Mozilla Firefox
+2021-07-25 06:27:23,930 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 06:28:36,144 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 06:28:47,651 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 06:30:53,592 INFO SampleTest [main] env = chrome
+2021-07-25 06:30:55,351 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 06:31:09,991 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 06:31:35,457 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 06:31:36,298 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 06:32:05,090 INFO SampleTest [main] env = cHrOme
+2021-07-25 06:32:06,487 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 06:32:10,065 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 06:32:25,625 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 06:32:26,540 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 06:32:52,218 INFO SampleTest [main] env = 'chrome'
+2021-07-25 06:35:58,361 INFO SampleTest [main] env = 'chrome'
+2021-07-25 06:36:02,394 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 06:36:10,861 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 06:36:24,945 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 06:36:25,700 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 06:37:03,361 INFO SampleTest [main] env = 'firefox'
+2021-07-25 06:37:04,748 INFO WebDriverFactory [main] Драйвер для браузера Mozilla Firefox
+2021-07-25 06:37:16,884 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 06:37:27,226 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 06:37:31,945 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:15:07,904 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:15:09,440 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:15:33,482 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:15:56,936 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:15:57,837 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:20:17,850 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:20:19,241 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:20:26,882 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:20:44,701 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:20:55,996 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:26:13,310 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:26:14,739 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:26:20,590 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:26:39,084 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:26:50,049 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:27:10,330 INFO SampleTest [main] env = cHrOme
+2021-07-25 07:27:11,720 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:27:16,034 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:27:37,680 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:27:48,423 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:28:26,173 INFO SampleTest [main] env = cHrOme
+2021-07-25 07:28:27,577 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:28:30,499 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:28:36,723 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:28:47,556 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:29:31,272 INFO SampleTest [main] env = cHrOme
+2021-07-25 07:29:32,670 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:29:35,476 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:29:41,496 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:29:52,094 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:30:18,897 INFO SampleTest [main] env = cHrOme
+2021-07-25 07:30:20,303 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:30:23,168 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:30:32,915 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:30:43,734 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:43:19,380 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:43:21,644 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:43:29,225 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:43:46,142 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:43:57,280 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:45:14,272 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:45:15,823 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:45:34,549 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:46:18,065 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:46:29,834 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:54:57,214 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:54:59,362 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:55:30,730 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:56:09,132 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:56:22,318 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 07:58:43,343 INFO SampleTest [main] env = 'chrome'
+2021-07-25 07:58:44,938 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 07:58:51,516 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 07:59:17,985 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 07:59:28,877 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:01:36,498 INFO SampleTest [main] env = 'chrome'
+2021-07-25 08:01:38,077 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:01:45,861 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:02:03,005 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:02:16,284 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:18:21,744 INFO SampleTest [main] env = chro
+2021-07-25 08:18:23,406 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:18:33,047 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:18:47,285 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:18:58,995 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:19:53,928 INFO SampleTest [main] env = chrome
+2021-07-25 08:19:55,364 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:19:58,572 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:20:07,138 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:20:17,849 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:28:44,772 INFO SampleTest [main] env = chrome
+2021-07-25 08:28:46,196 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:28:50,124 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:28:58,754 INFO SampleTest [main] title = 
+2021-07-25 08:28:58,755 INFO SampleTest [main] current URL = data:,
+2021-07-25 08:28:59,380 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:29:10,931 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:31:06,347 INFO SampleTest [main] env = chrome
+2021-07-25 08:31:07,787 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:31:10,944 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:31:18,556 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:31:18,581 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 08:31:18,582 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 08:31:29,356 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:40:53,207 INFO SampleTest [main] env = chrome
+2021-07-25 08:40:55,298 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:41:33,304 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:41:58,088 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:41:58,668 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 08:41:58,670 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 08:42:12,788 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:45:30,028 INFO SampleTest [main] env = chrome
+2021-07-25 08:45:36,766 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:45:58,249 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:46:17,319 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:46:17,701 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 08:46:17,703 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 08:46:23,288 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:48:18,625 INFO SampleTest [main] env = chrome
+2021-07-25 08:48:20,312 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:48:27,748 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:48:37,648 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:48:37,715 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 08:48:37,716 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 08:48:50,836 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 08:58:45,603 INFO SampleTest [main] env = chrome
+2021-07-25 08:58:47,107 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 08:58:59,219 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 08:59:30,322 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 08:59:30,412 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 08:59:30,415 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 08:59:53,058 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 09:02:01,218 INFO SampleTest [main] env = chrome
+2021-07-25 09:02:02,652 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 09:02:07,050 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 09:02:17,095 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 09:02:17,259 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 09:02:17,260 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 09:02:17,791 INFO SampleTest [main] Кнопку "Да" нажали.
+2021-07-25 09:02:31,613 INFO SampleTest [main] В бытовую технику перешли.
+2021-07-25 09:02:42,493 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 09:09:39,391 INFO SampleTest [main] env = chrome
+2021-07-25 09:09:40,815 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 09:09:48,527 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 09:10:10,979 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 09:10:11,139 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 09:10:11,143 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 09:10:12,403 INFO SampleTest [main] Кнопку "Да" нажали.
+2021-07-25 09:10:31,913 INFO SampleTest [main] В бытовую технику перешли.
+2021-07-25 09:10:43,674 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 09:11:29,001 INFO SampleTest [main] env = chrome
+2021-07-25 09:11:30,461 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 09:11:35,059 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 09:11:50,154 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 09:11:50,215 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 09:11:50,218 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 09:11:50,928 INFO SampleTest [main] Кнопку "Да" нажали.
+2021-07-25 09:12:02,390 INFO SampleTest [main] В бытовую технику перешли.
+2021-07-25 09:12:02,480 INFO SampleTest [main] Название категории: Техника для кухни
+2021-07-25 09:12:02,550 INFO SampleTest [main] Название категории: Техника для дома
+2021-07-25 09:12:02,573 INFO SampleTest [main] Название категории: Красота и здоровье
+2021-07-25 09:12:16,236 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 09:15:18,685 INFO SampleTest [main] env = chrome
+2021-07-25 09:15:20,110 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 09:15:23,468 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 09:15:32,267 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 09:15:32,427 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 09:15:32,429 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 09:15:32,933 INFO SampleTest [main] Кнопку "Да" нажали.
+2021-07-25 09:15:46,503 INFO SampleTest [main] В бытовую технику перешли.
+2021-07-25 09:15:46,646 INFO SampleTest [main] Название категории: Техника для кухни
+2021-07-25 09:15:46,670 INFO SampleTest [main] Название категории: Техника для дома
+2021-07-25 09:15:46,696 INFO SampleTest [main] Название категории: Красота и здоровье
+2021-07-25 09:15:57,639 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 09:23:54,827 INFO SampleTest [main] env = chrome
+2021-07-25 09:23:56,250 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 09:24:07,484 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 09:24:33,121 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 09:24:33,330 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 09:24:33,332 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 09:24:34,114 INFO SampleTest [main] Кнопку "Да" нажали.
+2021-07-25 09:24:50,302 INFO SampleTest [main] В бытовую технику перешли.
+2021-07-25 09:24:50,384 INFO SampleTest [main] Название категории: Техника для кухни
+2021-07-25 09:24:50,426 INFO SampleTest [main] Название категории: Техника для дома
+2021-07-25 09:24:50,506 INFO SampleTest [main] Название категории: Красота и здоровье
+2021-07-25 09:24:50,507 INFO SampleTest [main] Добавляем куки.
+2021-07-25 09:24:50,955 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:50,956 INFO SampleTest [main] Expiry: null
+2021-07-25 09:24:50,957 INFO SampleTest [main] Name: Cookie 1
+2021-07-25 09:24:50,957 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,957 INFO SampleTest [main] Value: This Is Cookie 1
+2021-07-25 09:24:50,957 INFO SampleTest [main] Куки, от ДНС:
+2021-07-25 09:24:50,976 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:50,981 INFO SampleTest [main] Expiry: Thu Jun 23 09:24:36 MSK 2022
+2021-07-25 09:24:50,981 INFO SampleTest [main] Name: tmr_reqNum
+2021-07-25 09:24:50,981 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,982 INFO SampleTest [main] Value: 7
+2021-07-25 09:24:50,982 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:50,982 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:50,982 INFO SampleTest [main] Expiry: Mon Jul 26 09:24:39 MSK 2021
+2021-07-25 09:24:50,983 INFO SampleTest [main] Name: tmr_detect
+2021-07-25 09:24:50,984 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,985 INFO SampleTest [main] Value: 0%7C1627194279235
+2021-07-25 09:24:50,986 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:50,986 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:50,987 INFO SampleTest [main] Expiry: Sun Jul 25 09:25:24 MSK 2021
+2021-07-25 09:24:50,987 INFO SampleTest [main] Name: _gat_UA-8349380-2
+2021-07-25 09:24:50,987 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,987 INFO SampleTest [main] Value: 1
+2021-07-25 09:24:50,987 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:50,988 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:50,988 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:36 MSK 2022
+2021-07-25 09:24:50,988 INFO SampleTest [main] Name: rcuid
+2021-07-25 09:24:50,989 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,989 INFO SampleTest [main] Value: 60fd039c59c30f0001ff1576
+2021-07-25 09:24:50,989 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:50,989 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:50,989 INFO SampleTest [main] Expiry: Sun Jul 25 09:54:38 MSK 2021
+2021-07-25 09:24:50,990 INFO SampleTest [main] Name: _ym_visorc
+2021-07-25 09:24:50,990 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,991 INFO SampleTest [main] Value: b
+2021-07-25 09:24:50,991 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:50,991 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:50,991 INFO SampleTest [main] Expiry: Thu Jun 23 09:24:36 MSK 2022
+2021-07-25 09:24:50,992 INFO SampleTest [main] Name: tmr_lvid
+2021-07-25 09:24:50,992 INFO SampleTest [main] Path: /
+2021-07-25 09:24:50,992 INFO SampleTest [main] Value: 227deb6554aa646393b74399ceed92f2
+2021-07-25 09:24:50,993 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:50,993 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:50,993 INFO SampleTest [main] Expiry: Thu Jun 23 09:24:36 MSK 2022
+2021-07-25 09:24:50,994 INFO SampleTest [main] Name: tmr_lvidTS
+2021-07-25 09:24:50,994 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,001 INFO SampleTest [main] Value: 1627194250171
+2021-07-25 09:24:51,001 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,002 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,002 INFO SampleTest [main] Expiry: Tue Aug 24 09:24:07 MSK 2021
+2021-07-25 09:24:51,003 INFO SampleTest [main] Name: rerf
+2021-07-25 09:24:51,003 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,003 INFO SampleTest [main] Value: AAAAAGD9A5vCBAYXCyw2Ag==
+2021-07-25 09:24:51,004 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,005 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,005 INFO SampleTest [main] Expiry: Wed Jan 01 02:59:39 MSK 2031
+2021-07-25 09:24:51,005 INFO SampleTest [main] Name: ipp_uid1
+2021-07-25 09:24:51,005 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,006 INFO SampleTest [main] Value: 1627194267282
+2021-07-25 09:24:51,006 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,006 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,007 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:10 MSK 2022
+2021-07-25 09:24:51,007 INFO SampleTest [main] Name: _ym_uid
+2021-07-25 09:24:51,008 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,008 INFO SampleTest [main] Value: 1627194250778194834
+2021-07-25 09:24:51,008 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,008 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,009 INFO SampleTest [main] Expiry: null
+2021-07-25 09:24:51,009 INFO SampleTest [main] Name: Cookie 1
+2021-07-25 09:24:51,009 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,009 INFO SampleTest [main] Value: This Is Cookie 1
+2021-07-25 09:24:51,009 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,009 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,010 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:11 MSK 2022
+2021-07-25 09:24:51,010 INFO SampleTest [main] Name: cartUserCookieIdent_v3
+2021-07-25 09:24:51,010 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,011 INFO SampleTest [main] Value: 0e3057057fba3d7c6c0f4b56d39671da2ec3642799a794d48e7749c31d404588a%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%2259641bdd-b05a-3e87-915e-849a73a436fb%22%3B%7D
+2021-07-25 09:24:51,013 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,013 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,013 INFO SampleTest [main] Expiry: Mon Jul 26 05:24:10 MSK 2021
+2021-07-25 09:24:51,014 INFO SampleTest [main] Name: _ym_isad
+2021-07-25 09:24:51,014 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,014 INFO SampleTest [main] Value: 2
+2021-07-25 09:24:51,014 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,015 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,015 INFO SampleTest [main] Expiry: Sat Oct 23 09:24:37 MSK 2021
+2021-07-25 09:24:51,015 INFO SampleTest [main] Name: _fbp
+2021-07-25 09:24:51,015 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,016 INFO SampleTest [main] Value: fb.1.1627194250960.111294014
+2021-07-25 09:24:51,016 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,016 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,016 INFO SampleTest [main] Expiry: Sun Aug 01 09:24:07 MSK 2021
+2021-07-25 09:24:51,016 INFO SampleTest [main] Name: PHPSESSID
+2021-07-25 09:24:51,017 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,020 INFO SampleTest [main] Value: 679ebb3c110ff35827e27e4b8eaea563
+2021-07-25 09:24:51,020 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,020 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,021 INFO SampleTest [main] Expiry: Wed Jan 01 02:59:39 MSK 2031
+2021-07-25 09:24:51,023 INFO SampleTest [main] Name: ipp_uid2
+2021-07-25 09:24:51,024 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,024 INFO SampleTest [main] Value: 9NngcX8nLv2n0wd6/uPEW8PFJd9fHheaaCOKkhQ==
+2021-07-25 09:24:51,024 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,024 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,028 INFO SampleTest [main] Expiry: Wed Jan 01 02:59:39 MSK 2031
+2021-07-25 09:24:51,028 INFO SampleTest [main] Name: ipp_uid
+2021-07-25 09:24:51,028 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,029 INFO SampleTest [main] Value: 1627194267282/9NngcX8nLv2n0wd6/uPEW8PFJd9fHheaaCOKkhQ==
+2021-07-25 09:24:51,029 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,029 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,029 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:07 MSK 2022
+2021-07-25 09:24:51,030 INFO SampleTest [main] Name: current_path
+2021-07-25 09:24:51,030 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,030 INFO SampleTest [main] Value: 77e7785e554c4300a7377f08d449058860b23c0bd9e72bc8b858090ef2055f6ba%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A64%3A%22%7B%22city%22%3A%22cd1f0fe4-3292-11e1-9afa-001517c526f0%22%2C%22method%22%3A%22geoip%22%7D%22%3B%7D
+2021-07-25 09:24:51,030 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,030 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,031 INFO SampleTest [main] Expiry: Mon Jul 26 09:24:34 MSK 2021
+2021-07-25 09:24:51,032 INFO SampleTest [main] Name: dnsauth_csrf
+2021-07-25 09:24:51,032 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,032 INFO SampleTest [main] Value: 4824120654af50e9cf9281a6b65d45258a61037c10be8fc416b1b408d3037f05a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22dnsauth_csrf%22%3Bi%3A1%3Bs%3A36%3A%22f2361df9-b4d0-47c4-9eac-b8ef70d6160d%22%3B%7D
+2021-07-25 09:24:51,032 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,032 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,033 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:35 MSK 2022
+2021-07-25 09:24:51,037 INFO SampleTest [main] Name: rrpvid
+2021-07-25 09:24:51,037 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,037 INFO SampleTest [main] Value: 567421767725638
+2021-07-25 09:24:51,037 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,038 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,038 INFO SampleTest [main] Expiry: null
+2021-07-25 09:24:51,038 INFO SampleTest [main] Name: _csrf
+2021-07-25 09:24:51,038 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,038 INFO SampleTest [main] Value: 9d82e1426dad8f0bf249b07bf3b2fe0ff98d9500a2a7b3f2db4e92ff53d85381a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22U5yAlHFnIUsZI1d49ZRo-Hok18jiiX25%22%3B%7D
+2021-07-25 09:24:51,039 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,039 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,039 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:10 MSK 2022
+2021-07-25 09:24:51,039 INFO SampleTest [main] Name: _ym_d
+2021-07-25 09:24:51,040 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,040 INFO SampleTest [main] Value: 1627194250
+2021-07-25 09:24:51,040 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,040 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:24:51,040 INFO SampleTest [main] Expiry: null
+2021-07-25 09:24:51,041 INFO SampleTest [main] Name: ipp_key
+2021-07-25 09:24:51,041 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,041 INFO SampleTest [main] Value: v1627194267282/v3394bd400b5e53a13cfc65163aeca6afa04ab3/y69NQrBCisoJsW+laHY2Ng==
+2021-07-25 09:24:51,042 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,042 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,042 INFO SampleTest [main] Expiry: Mon Jul 26 09:24:36 MSK 2021
+2021-07-25 09:24:51,042 INFO SampleTest [main] Name: _gid
+2021-07-25 09:24:51,043 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,043 INFO SampleTest [main] Value: GA1.2.831669386.1627194249
+2021-07-25 09:24:51,043 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,043 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,043 INFO SampleTest [main] Expiry: Sun Jul 25 09:25:09 MSK 2021
+2021-07-25 09:24:51,044 INFO SampleTest [main] Name: _gat
+2021-07-25 09:24:51,045 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,045 INFO SampleTest [main] Value: 1
+2021-07-25 09:24:51,045 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,045 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,046 INFO SampleTest [main] Expiry: null
+2021-07-25 09:24:51,046 INFO SampleTest [main] Name: city_path
+2021-07-25 09:24:51,047 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,047 INFO SampleTest [main] Value: tver
+2021-07-25 09:24:51,048 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,048 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,048 INFO SampleTest [main] Expiry: Tue Jul 25 09:24:36 MSK 2023
+2021-07-25 09:24:51,049 INFO SampleTest [main] Name: _ga
+2021-07-25 09:24:51,049 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,050 INFO SampleTest [main] Value: GA1.2.1682593893.1627194249
+2021-07-25 09:24:51,050 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,050 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,051 INFO SampleTest [main] Expiry: Sat Oct 23 09:24:09 MSK 2021
+2021-07-25 09:24:51,051 INFO SampleTest [main] Name: _gcl_au
+2021-07-25 09:24:51,051 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,052 INFO SampleTest [main] Value: 1.1.1775973860.1627194249
+2021-07-25 09:24:51,052 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:24:51,052 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:24:51,053 INFO SampleTest [main] Expiry: Mon Jul 25 09:24:07 MSK 2022
+2021-07-25 09:24:51,053 INFO SampleTest [main] Name: phonesIdent
+2021-07-25 09:24:51,053 INFO SampleTest [main] Path: /
+2021-07-25 09:24:51,054 INFO SampleTest [main] Value: 99bc9e75a000c5523f364b4f2b8dc4bcfd1e9b9920e405bb47cd1d147a353346a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%2273850cc1-a895-4f71-886a-f187fac4d1da%22%3B%7D
+2021-07-25 09:24:51,054 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:25:04,617 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 09:27:31,346 INFO SampleTest [main] env = chrome
+2021-07-25 09:27:33,237 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 09:27:38,275 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 09:27:47,476 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2021-07-25 09:27:47,498 INFO SampleTest [main] title = DNS – интернет магазин цифровой и бытовой техники по доступным ценам.
+2021-07-25 09:27:47,500 INFO SampleTest [main] current URL = https://www.dns-shop.ru/
+2021-07-25 09:27:47,722 INFO SampleTest [main] Кнопку "Да" нажали.
+2021-07-25 09:28:01,143 INFO SampleTest [main] В бытовую технику перешли.
+2021-07-25 09:28:01,214 INFO SampleTest [main] Название категории: Техника для кухни
+2021-07-25 09:28:01,243 INFO SampleTest [main] Название категории: Техника для дома
+2021-07-25 09:28:01,271 INFO SampleTest [main] Название категории: Красота и здоровье
+2021-07-25 09:28:01,272 INFO SampleTest [main] Добавляем куки.
+2021-07-25 09:28:01,313 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,314 INFO SampleTest [main] Expiry: null
+2021-07-25 09:28:01,314 INFO SampleTest [main] Name: Cookie 1
+2021-07-25 09:28:01,314 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,315 INFO SampleTest [main] Value: This Is Cookie 1
+2021-07-25 09:28:01,315 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,315 INFO SampleTest [main] Куки, от ДНС:
+2021-07-25 09:28:01,354 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,360 INFO SampleTest [main] Expiry: Thu Jun 23 09:27:49 MSK 2022
+2021-07-25 09:28:01,360 INFO SampleTest [main] Name: tmr_reqNum
+2021-07-25 09:28:01,361 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,361 INFO SampleTest [main] Value: 7
+2021-07-25 09:28:01,362 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,362 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,362 INFO SampleTest [main] Expiry: Mon Jul 26 09:27:52 MSK 2021
+2021-07-25 09:28:01,363 INFO SampleTest [main] Name: tmr_detect
+2021-07-25 09:28:01,363 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,363 INFO SampleTest [main] Value: 0%7C1627194472517
+2021-07-25 09:28:01,363 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,364 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,365 INFO SampleTest [main] Expiry: Sun Jul 25 09:28:47 MSK 2021
+2021-07-25 09:28:01,370 INFO SampleTest [main] Name: _gat_UA-8349380-2
+2021-07-25 09:28:01,371 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,371 INFO SampleTest [main] Value: 1
+2021-07-25 09:28:01,371 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,373 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,374 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:49 MSK 2022
+2021-07-25 09:28:01,374 INFO SampleTest [main] Name: rcuid
+2021-07-25 09:28:01,375 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,375 INFO SampleTest [main] Value: 60fd047053f84200018b622a
+2021-07-25 09:28:01,375 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,376 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,377 INFO SampleTest [main] Expiry: Sun Jul 25 09:57:51 MSK 2021
+2021-07-25 09:28:01,377 INFO SampleTest [main] Name: _ym_visorc
+2021-07-25 09:28:01,377 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,378 INFO SampleTest [main] Value: b
+2021-07-25 09:28:01,378 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,378 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,378 INFO SampleTest [main] Expiry: Thu Jun 23 09:27:49 MSK 2022
+2021-07-25 09:28:01,379 INFO SampleTest [main] Name: tmr_lvid
+2021-07-25 09:28:01,379 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,379 INFO SampleTest [main] Value: 0f9c998760097417d486aef29c05b40a
+2021-07-25 09:28:01,379 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,380 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,381 INFO SampleTest [main] Expiry: Thu Jun 23 09:27:49 MSK 2022
+2021-07-25 09:28:01,382 INFO SampleTest [main] Name: tmr_lvidTS
+2021-07-25 09:28:01,382 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,382 INFO SampleTest [main] Value: 1627194462471
+2021-07-25 09:28:01,383 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,383 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,383 INFO SampleTest [main] Expiry: Tue Aug 24 09:27:38 MSK 2021
+2021-07-25 09:28:01,384 INFO SampleTest [main] Name: rerf
+2021-07-25 09:28:01,384 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,384 INFO SampleTest [main] Value: AAAAAGD9BG5FVosiDCOOAg==
+2021-07-25 09:28:01,384 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,385 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,385 INFO SampleTest [main] Expiry: Wed Jan 01 02:59:39 MSK 2031
+2021-07-25 09:28:01,385 INFO SampleTest [main] Name: ipp_uid1
+2021-07-25 09:28:01,385 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,386 INFO SampleTest [main] Value: 1627194478118
+2021-07-25 09:28:01,386 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,386 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,387 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:42 MSK 2022
+2021-07-25 09:28:01,387 INFO SampleTest [main] Name: _ym_uid
+2021-07-25 09:28:01,387 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,387 INFO SampleTest [main] Value: 1627194463745748426
+2021-07-25 09:28:01,388 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,388 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,388 INFO SampleTest [main] Expiry: null
+2021-07-25 09:28:01,388 INFO SampleTest [main] Name: Cookie 1
+2021-07-25 09:28:01,389 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,390 INFO SampleTest [main] Value: This Is Cookie 1
+2021-07-25 09:28:01,392 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,392 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,392 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:43 MSK 2022
+2021-07-25 09:28:01,392 INFO SampleTest [main] Name: cartUserCookieIdent_v3
+2021-07-25 09:28:01,393 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,393 INFO SampleTest [main] Value: 19996a131b8af64d1595239f23f9cce85fcf08c2556fd2232b0737f7d9ec63e3a%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%22910380fc-6d14-38b4-a901-984bc8ad11b6%22%3B%7D
+2021-07-25 09:28:01,393 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,393 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,394 INFO SampleTest [main] Expiry: Mon Jul 26 05:27:43 MSK 2021
+2021-07-25 09:28:01,395 INFO SampleTest [main] Name: _ym_isad
+2021-07-25 09:28:01,395 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,395 INFO SampleTest [main] Value: 2
+2021-07-25 09:28:01,396 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,396 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,396 INFO SampleTest [main] Expiry: Sat Oct 23 09:27:51 MSK 2021
+2021-07-25 09:28:01,396 INFO SampleTest [main] Name: _fbp
+2021-07-25 09:28:01,396 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,397 INFO SampleTest [main] Value: fb.1.1627194463040.1768170035
+2021-07-25 09:28:01,397 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,397 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,399 INFO SampleTest [main] Expiry: Sun Aug 01 09:27:38 MSK 2021
+2021-07-25 09:28:01,400 INFO SampleTest [main] Name: PHPSESSID
+2021-07-25 09:28:01,401 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,402 INFO SampleTest [main] Value: 98bb5558dcd767bf10c22ba253c75663
+2021-07-25 09:28:01,402 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,403 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,403 INFO SampleTest [main] Expiry: Wed Jan 01 02:59:39 MSK 2031
+2021-07-25 09:28:01,403 INFO SampleTest [main] Name: ipp_uid2
+2021-07-25 09:28:01,405 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,405 INFO SampleTest [main] Value: 5c2oIQt51AiQu1kG/kYiMkXsAMLk0OGI+E7JBVQ==
+2021-07-25 09:28:01,405 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,405 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,408 INFO SampleTest [main] Expiry: Wed Jan 01 02:59:39 MSK 2031
+2021-07-25 09:28:01,408 INFO SampleTest [main] Name: ipp_uid
+2021-07-25 09:28:01,409 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,409 INFO SampleTest [main] Value: 1627194478118/5c2oIQt51AiQu1kG/kYiMkXsAMLk0OGI+E7JBVQ==
+2021-07-25 09:28:01,409 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,409 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,410 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:38 MSK 2022
+2021-07-25 09:28:01,410 INFO SampleTest [main] Name: current_path
+2021-07-25 09:28:01,410 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,410 INFO SampleTest [main] Value: 77e7785e554c4300a7377f08d449058860b23c0bd9e72bc8b858090ef2055f6ba%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A64%3A%22%7B%22city%22%3A%22cd1f0fe4-3292-11e1-9afa-001517c526f0%22%2C%22method%22%3A%22geoip%22%7D%22%3B%7D
+2021-07-25 09:28:01,411 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,411 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,411 INFO SampleTest [main] Expiry: Mon Jul 26 09:27:48 MSK 2021
+2021-07-25 09:28:01,412 INFO SampleTest [main] Name: dnsauth_csrf
+2021-07-25 09:28:01,412 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,412 INFO SampleTest [main] Value: 7f103cedf3f839f42b6ee98b9457d03fb7d374f0870f6363822cb7dbc4356018a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22dnsauth_csrf%22%3Bi%3A1%3Bs%3A36%3A%229a8cd55c-5282-43b0-8248-668eb6a9e83b%22%3B%7D
+2021-07-25 09:28:01,413 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,413 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,413 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:49 MSK 2022
+2021-07-25 09:28:01,413 INFO SampleTest [main] Name: rrpvid
+2021-07-25 09:28:01,414 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,416 INFO SampleTest [main] Value: 174831315257727
+2021-07-25 09:28:01,417 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,418 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,418 INFO SampleTest [main] Expiry: null
+2021-07-25 09:28:01,419 INFO SampleTest [main] Name: _csrf
+2021-07-25 09:28:01,419 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,419 INFO SampleTest [main] Value: ca72239c2675df9e0b14b8a35e4b57ce0c0d2684db7c085df58dd16ec5a9f658a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22bL2RYlGsu4srszwdFqtmgT59Nhain5KA%22%3B%7D
+2021-07-25 09:28:01,419 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,420 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,420 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:42 MSK 2022
+2021-07-25 09:28:01,420 INFO SampleTest [main] Name: _ym_d
+2021-07-25 09:28:01,420 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,420 INFO SampleTest [main] Value: 1627194463
+2021-07-25 09:28:01,421 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,421 INFO SampleTest [main] Domain: www.dns-shop.ru
+2021-07-25 09:28:01,421 INFO SampleTest [main] Expiry: null
+2021-07-25 09:28:01,421 INFO SampleTest [main] Name: ipp_key
+2021-07-25 09:28:01,421 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,422 INFO SampleTest [main] Value: v1627194478118/v3394bd400b5e53a13cfc65163aeca6afa04ab3/czUxtZNdfAX6GOs6YquPhQ==
+2021-07-25 09:28:01,422 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,422 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,423 INFO SampleTest [main] Expiry: Mon Jul 26 09:27:49 MSK 2021
+2021-07-25 09:28:01,423 INFO SampleTest [main] Name: _gid
+2021-07-25 09:28:01,423 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,429 INFO SampleTest [main] Value: GA1.2.861556530.1627194460
+2021-07-25 09:28:01,433 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,434 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,435 INFO SampleTest [main] Expiry: Sun Jul 25 09:28:42 MSK 2021
+2021-07-25 09:28:01,435 INFO SampleTest [main] Name: _gat
+2021-07-25 09:28:01,435 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,435 INFO SampleTest [main] Value: 1
+2021-07-25 09:28:01,435 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,435 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,436 INFO SampleTest [main] Expiry: null
+2021-07-25 09:28:01,436 INFO SampleTest [main] Name: city_path
+2021-07-25 09:28:01,436 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,436 INFO SampleTest [main] Value: tver
+2021-07-25 09:28:01,436 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,436 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,437 INFO SampleTest [main] Expiry: Tue Jul 25 09:27:49 MSK 2023
+2021-07-25 09:28:01,437 INFO SampleTest [main] Name: _ga
+2021-07-25 09:28:01,437 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,437 INFO SampleTest [main] Value: GA1.2.1077117292.1627194460
+2021-07-25 09:28:01,437 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,438 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,438 INFO SampleTest [main] Expiry: Sat Oct 23 09:27:40 MSK 2021
+2021-07-25 09:28:01,438 INFO SampleTest [main] Name: _gcl_au
+2021-07-25 09:28:01,439 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,439 INFO SampleTest [main] Value: 1.1.198068827.1627194461
+2021-07-25 09:28:01,439 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:01,439 INFO SampleTest [main] Domain: .dns-shop.ru
+2021-07-25 09:28:01,439 INFO SampleTest [main] Expiry: Mon Jul 25 09:27:38 MSK 2022
+2021-07-25 09:28:01,440 INFO SampleTest [main] Name: phonesIdent
+2021-07-25 09:28:01,440 INFO SampleTest [main] Path: /
+2021-07-25 09:28:01,440 INFO SampleTest [main] Value: 92722a993b9ed7364d4b29abca666a5856d7780d4000895db1bd69bfc4dbef4aa%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%225c26a162-18be-48a5-812e-9dfcb5dcebb7%22%3B%7D
+2021-07-25 09:28:01,463 INFO SampleTest [main] --------------------------------------
+2021-07-25 09:28:12,292 INFO SampleTest [main] Драйвер остановлен!
