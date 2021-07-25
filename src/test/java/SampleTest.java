@@ -86,19 +86,4 @@ public class SampleTest {
       logger.info("Драйвер остановлен!");
     }
   }
-
-
-  public WebDriver getDriver() {
-    ChromeOptions options = new ChromeOptions();
-    options.setCapability(CapabilityType.PLATFORM_NAME, Platform.WINDOWS);
-    options.setCapability(CapabilityType.UNEXPECTED_ALERT_BEHAVIOUR, UnexpectedAlertBehaviour.DISMISS);
-    options.setCapability(CapabilityType.SUPPORTS_JAVASCRIPT, false);
-    options.setAcceptInsecureCerts(false);
-    options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-
-    options.addArguments("--start-maximized");
-    options.addArguments("--incognito");
-
-    return new ChromeDriver(options);
-  }
 }
