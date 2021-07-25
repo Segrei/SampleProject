@@ -96,3 +96,501 @@
 2021-07-24 17:52:03,499 INFO SampleTest [main] title = РЇРЅРґРµРєСЃ
 2021-07-24 17:52:03,514 INFO SampleTest [main] current URL = https://yandex.ru/
 2021-07-24 17:52:17,803 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-24 17:56:58,568 INFO SampleTest [main] env = firefox
+2021-07-24 17:57:00,646 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Mozilla Firefox
+2021-07-24 17:57:44,366 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-24 17:57:55,345 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° Yandex
+2021-07-24 17:57:55,353 INFO SampleTest [main] title = РЇРЅРґРµРєСЃ
+2021-07-24 17:57:55,363 INFO SampleTest [main] current URL = https://yandex.ru/
+2021-07-24 18:24:23,997 INFO SampleTest [main] env = firefox
+2021-07-24 18:24:28,324 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Mozilla Firefox
+2021-07-24 18:24:48,584 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-24 18:24:59,645 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° Yandex
+2021-07-24 18:24:59,664 INFO SampleTest [main] title = РЇРЅРґРµРєСЃ
+2021-07-24 18:24:59,701 INFO SampleTest [main] current URL = https://yandex.ru/
+2021-07-24 18:25:15,891 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-24 20:30:11,662 INFO CookieTest [main] env = chrome
+2021-07-24 20:30:14,108 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 20:30:34,392 INFO CookieTest [main] Драйвер стартовал!
+2021-07-24 20:30:41,813 INFO CookieTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-24 20:30:41,813 INFO CookieTest [main] Куки, которое добавили мы
+2021-07-24 20:30:42,694 INFO CookieTest [main] Domain: yandex.ru
+2021-07-24 20:30:42,694 INFO CookieTest [main] Expiry: null
+2021-07-24 20:30:42,695 INFO CookieTest [main] Name: Cookie 1
+2021-07-24 20:30:42,695 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,697 INFO CookieTest [main] Value: This Is Cookie 1
+2021-07-24 20:30:42,697 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,698 INFO CookieTest [main] Куки, которое добавил Yandex
+2021-07-24 20:30:42,728 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,729 INFO CookieTest [main] Expiry: Mon Jul 24 20:30:35 MSK 2023
+2021-07-24 20:30:42,729 INFO CookieTest [main] Name: is_gdpr
+2021-07-24 20:30:42,729 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,730 INFO CookieTest [main] Value: 0
+2021-07-24 20:30:42,730 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,730 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,731 INFO CookieTest [main] Expiry: Mon Aug 23 20:30:35 MSK 2021
+2021-07-24 20:30:42,731 INFO CookieTest [main] Name: yandex_gid
+2021-07-24 20:30:42,731 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,731 INFO CookieTest [main] Value: 13
+2021-07-24 20:30:42,732 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,732 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,732 INFO CookieTest [main] Expiry: Mon Aug 23 20:31:00 MSK 2021
+2021-07-24 20:30:42,733 INFO CookieTest [main] Name: _yasc
+2021-07-24 20:30:42,733 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,733 INFO CookieTest [main] Value: t4mSknbJFV9P/m1J868eT/jJThe1ooToluRNYGcyNIsLQAlj8LSKLQ==
+2021-07-24 20:30:42,734 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,734 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,735 INFO CookieTest [main] Expiry: Mon Jul 24 20:30:35 MSK 2023
+2021-07-24 20:30:42,735 INFO CookieTest [main] Name: i
+2021-07-24 20:30:42,735 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,736 INFO CookieTest [main] Value: RFTS+Ll48CfzlYDGbe/XUGDRrQQmDV6kh38l84EtM9Xjh9SXii3ryn6WkmR4g/yvwL0vKQELDnQWc7pEvDJ7bGnXzmE=
+2021-07-24 20:30:42,736 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,736 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,737 INFO CookieTest [main] Expiry: Sun Jul 24 20:30:37 MSK 2022
+2021-07-24 20:30:42,737 INFO CookieTest [main] Name: _ym_d
+2021-07-24 20:30:42,738 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,738 INFO CookieTest [main] Value: 1627147838
+2021-07-24 20:30:42,738 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,738 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,739 INFO CookieTest [main] Expiry: Tue Jul 22 20:30:37 MSK 2031
+2021-07-24 20:30:42,739 INFO CookieTest [main] Name: yuidss
+2021-07-24 20:30:42,739 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,741 INFO CookieTest [main] Value: 4947852631627147854
+2021-07-24 20:30:42,741 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,741 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,742 INFO CookieTest [main] Expiry: Tue Jul 23 20:30:39 MSK 2024
+2021-07-24 20:30:42,742 INFO CookieTest [main] Name: mda
+2021-07-24 20:30:42,743 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,743 INFO CookieTest [main] Value: 0
+2021-07-24 20:30:42,743 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,743 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,744 INFO CookieTest [main] Expiry: Tue Jul 22 20:30:41 MSK 2031
+2021-07-24 20:30:42,744 INFO CookieTest [main] Name: my
+2021-07-24 20:30:42,744 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,745 INFO CookieTest [main] Value: YwA=
+2021-07-24 20:30:42,745 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,745 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,745 INFO CookieTest [main] Expiry: null
+2021-07-24 20:30:42,746 INFO CookieTest [main] Name: gdpr
+2021-07-24 20:30:42,746 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,746 INFO CookieTest [main] Value: 0
+2021-07-24 20:30:42,746 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,747 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,748 INFO CookieTest [main] Expiry: Sun Jul 24 20:30:37 MSK 2022
+2021-07-24 20:30:42,748 INFO CookieTest [main] Name: _ym_uid
+2021-07-24 20:30:42,749 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,749 INFO CookieTest [main] Value: 1627147837612740931
+2021-07-24 20:30:42,749 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,750 INFO CookieTest [main] Domain: yandex.ru
+2021-07-24 20:30:42,750 INFO CookieTest [main] Expiry: null
+2021-07-24 20:30:42,751 INFO CookieTest [main] Name: Cookie 1
+2021-07-24 20:30:42,751 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,752 INFO CookieTest [main] Value: This Is Cookie 1
+2021-07-24 20:30:42,752 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,752 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,753 INFO CookieTest [main] Expiry: Mon Jul 24 20:30:35 MSK 2023
+2021-07-24 20:30:42,753 INFO CookieTest [main] Name: is_gdpr_b
+2021-07-24 20:30:42,754 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,754 INFO CookieTest [main] Value: CPT0GBDkOygC
+2021-07-24 20:30:42,754 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,755 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,755 INFO CookieTest [main] Expiry: Tue Jul 22 20:30:41 MSK 2031
+2021-07-24 20:30:42,756 INFO CookieTest [main] Name: yp
+2021-07-24 20:30:42,756 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,757 INFO CookieTest [main] Value: 1629739854.ygu.1#1642915860.szm.1:1366x768:1034x572
+2021-07-24 20:30:42,757 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,758 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,758 INFO CookieTest [main] Expiry: Sun Jul 25 16:30:40 MSK 2021
+2021-07-24 20:30:42,759 INFO CookieTest [main] Name: _ym_isad
+2021-07-24 20:30:42,760 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,760 INFO CookieTest [main] Value: 2
+2021-07-24 20:30:42,761 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,761 INFO CookieTest [main] Domain: yandex.ru
+2021-07-24 20:30:42,764 INFO CookieTest [main] Expiry: Tue Jul 22 20:30:37 MSK 2031
+2021-07-24 20:30:42,764 INFO CookieTest [main] Name: font_loaded
+2021-07-24 20:30:42,765 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,766 INFO CookieTest [main] Value: YSv1
+2021-07-24 20:30:42,766 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,766 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,767 INFO CookieTest [main] Expiry: Mon Nov 01 20:30:39 MSK 2021
+2021-07-24 20:30:42,767 INFO CookieTest [main] Name: yabs-frequency
+2021-07-24 20:30:42,768 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,768 INFO CookieTest [main] Value: /5/0000000000000000/Tdn1ROO0003uGIU2OK5jXW000FX18qMIGMs60000-44X/
+2021-07-24 20:30:42,769 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,769 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,771 INFO CookieTest [main] Expiry: Tue Jul 22 20:30:37 MSK 2031
+2021-07-24 20:30:42,772 INFO CookieTest [main] Name: yandexuid
+2021-07-24 20:30:42,773 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,773 INFO CookieTest [main] Value: 4947852631627147854
+2021-07-24 20:30:42,775 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:42,775 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 20:30:42,776 INFO CookieTest [main] Expiry: Sun Jul 24 20:30:37 MSK 2022
+2021-07-24 20:30:42,776 INFO CookieTest [main] Name: ymex
+2021-07-24 20:30:42,777 INFO CookieTest [main] Path: /
+2021-07-24 20:30:42,777 INFO CookieTest [main] Value: 1942507856.yrts.1627147856
+2021-07-24 20:30:42,777 INFO CookieTest [main] --------------------------------------
+2021-07-24 20:30:53,643 INFO CookieTest [main] Драйвер остановлен!
+2021-07-24 20:33:53,557 INFO LogsTest [main] env = chrome
+2021-07-24 20:33:54,973 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 20:33:59,220 INFO LogsTest [main] Драйвер стартовал!
+2021-07-24 20:34:06,811 INFO LogsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-24 20:34:06,812 INFO LogsTest [main] Логи браузера
+2021-07-24 20:34:06,856 INFO LogsTest [main] --------------------------------------
+2021-07-24 20:34:18,470 INFO LogsTest [main] Драйвер остановлен!
+2021-07-24 20:39:40,969 INFO SampleTest [main] env = firefox
+2021-07-24 20:39:42,999 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Mozilla Firefox
+2021-07-24 20:40:21,033 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-24 20:40:46,042 INFO SampleTest [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° Yandex
+2021-07-24 20:40:46,100 INFO SampleTest [main] title = РЇРЅРґРµРєСЃ
+2021-07-24 20:40:46,127 INFO SampleTest [main] current URL = https://yandex.ru/
+2021-07-24 20:40:51,389 INFO SampleTest [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-24 20:41:31,994 INFO TimeOutsTests [main] env = chrome
+2021-07-24 20:41:33,881 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Google Chrome
+2021-07-24 20:41:38,394 INFO TimeOutsTests [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-24 20:41:45,193 INFO TimeOutsTests [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° Yandex - https://yandex.ru/
+2021-07-24 20:41:45,941 INFO TimeOutsTests [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-24 20:42:37,309 INFO TimeOutsTests [main] env = chrome
+2021-07-24 20:42:38,865 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 20:42:46,650 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-24 20:42:52,627 INFO TimeOutsTests [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-24 20:42:54,438 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-24 20:49:25,064 INFO TimeOutsTests [main] env = chrome
+2021-07-24 20:49:26,468 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 20:49:33,897 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-24 20:49:34,994 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-24 20:51:09,584 INFO TimeOutsTests [main] env = chrome
+2021-07-24 20:51:11,041 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 20:51:20,466 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-24 20:51:21,310 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-24 21:10:54,688 INFO CookieTest [main] env = chrome
+2021-07-24 21:10:56,111 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 21:11:10,356 INFO CookieTest [main] Драйвер стартовал!
+2021-07-24 21:11:14,647 INFO CookieTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-24 21:11:14,649 INFO CookieTest [main] Куки, которое добавили мы
+2021-07-24 21:11:14,708 INFO CookieTest [main] Domain: yandex.ru
+2021-07-24 21:11:14,708 INFO CookieTest [main] Expiry: null
+2021-07-24 21:11:14,709 INFO CookieTest [main] Name: Cookie 1
+2021-07-24 21:11:14,709 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,709 INFO CookieTest [main] Value: This Is Cookie 1
+2021-07-24 21:11:14,710 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,710 INFO CookieTest [main] Куки, которое добавил Yandex
+2021-07-24 21:11:14,745 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,753 INFO CookieTest [main] Expiry: Mon Jul 24 21:11:10 MSK 2023
+2021-07-24 21:11:14,753 INFO CookieTest [main] Name: is_gdpr
+2021-07-24 21:11:14,755 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,756 INFO CookieTest [main] Value: 0
+2021-07-24 21:11:14,756 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,757 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,757 INFO CookieTest [main] Expiry: Mon Aug 23 21:11:10 MSK 2021
+2021-07-24 21:11:14,758 INFO CookieTest [main] Name: yandex_gid
+2021-07-24 21:11:14,758 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,758 INFO CookieTest [main] Value: 13
+2021-07-24 21:11:14,759 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,759 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,759 INFO CookieTest [main] Expiry: Mon Aug 23 21:11:32 MSK 2021
+2021-07-24 21:11:14,759 INFO CookieTest [main] Name: _yasc
+2021-07-24 21:11:14,760 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,760 INFO CookieTest [main] Value: jjJFS+g99kHHwn4gCkJ+Gfe+128L+EBy352oZIBqTJ75otXQ7mln7g==
+2021-07-24 21:11:14,760 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,761 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,762 INFO CookieTest [main] Expiry: Mon Jul 24 21:11:10 MSK 2023
+2021-07-24 21:11:14,762 INFO CookieTest [main] Name: i
+2021-07-24 21:11:14,763 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,763 INFO CookieTest [main] Value: UiAtqRnOWD7vZIEFhJycmyolFKCVQmKwCZfUszi8uOnWg3CuBKrieUIwvCFU49+eebPo1r1GCJ/UxUSwowhrBexo7KA=
+2021-07-24 21:11:14,763 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,764 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,764 INFO CookieTest [main] Expiry: Sun Jul 24 21:11:12 MSK 2022
+2021-07-24 21:11:14,765 INFO CookieTest [main] Name: _ym_d
+2021-07-24 21:11:14,765 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,765 INFO CookieTest [main] Value: 1627150272
+2021-07-24 21:11:14,765 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,766 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,766 INFO CookieTest [main] Expiry: Tue Jul 22 21:11:12 MSK 2031
+2021-07-24 21:11:14,766 INFO CookieTest [main] Name: yuidss
+2021-07-24 21:11:14,766 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,767 INFO CookieTest [main] Value: 3174117631627150289
+2021-07-24 21:11:14,767 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,767 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,768 INFO CookieTest [main] Expiry: Tue Jul 23 21:11:12 MSK 2024
+2021-07-24 21:11:14,768 INFO CookieTest [main] Name: mda
+2021-07-24 21:11:14,768 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,768 INFO CookieTest [main] Value: 0
+2021-07-24 21:11:14,769 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,769 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,769 INFO CookieTest [main] Expiry: Tue Jul 22 21:11:14 MSK 2031
+2021-07-24 21:11:14,769 INFO CookieTest [main] Name: my
+2021-07-24 21:11:14,770 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,770 INFO CookieTest [main] Value: YwA=
+2021-07-24 21:11:14,770 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,771 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,771 INFO CookieTest [main] Expiry: null
+2021-07-24 21:11:14,771 INFO CookieTest [main] Name: gdpr
+2021-07-24 21:11:14,774 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,774 INFO CookieTest [main] Value: 0
+2021-07-24 21:11:14,775 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,775 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,775 INFO CookieTest [main] Expiry: Sun Jul 24 21:11:12 MSK 2022
+2021-07-24 21:11:14,775 INFO CookieTest [main] Name: _ym_uid
+2021-07-24 21:11:14,776 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,776 INFO CookieTest [main] Value: 1627150272599204262
+2021-07-24 21:11:14,776 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,777 INFO CookieTest [main] Domain: yandex.ru
+2021-07-24 21:11:14,779 INFO CookieTest [main] Expiry: null
+2021-07-24 21:11:14,779 INFO CookieTest [main] Name: Cookie 1
+2021-07-24 21:11:14,779 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,779 INFO CookieTest [main] Value: This Is Cookie 1
+2021-07-24 21:11:14,780 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,780 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,780 INFO CookieTest [main] Expiry: Mon Jul 24 21:11:10 MSK 2023
+2021-07-24 21:11:14,780 INFO CookieTest [main] Name: is_gdpr_b
+2021-07-24 21:11:14,781 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,781 INFO CookieTest [main] Value: CPT0GBDlOygC
+2021-07-24 21:11:14,784 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,784 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,785 INFO CookieTest [main] Expiry: Tue Jul 22 21:11:14 MSK 2031
+2021-07-24 21:11:14,786 INFO CookieTest [main] Name: yp
+2021-07-24 21:11:14,786 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,788 INFO CookieTest [main] Value: 1629742290.ygu.1#1642918293.szm.1:1366x768:1034x572
+2021-07-24 21:11:14,788 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,788 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,789 INFO CookieTest [main] Expiry: Sun Jul 25 17:11:13 MSK 2021
+2021-07-24 21:11:14,789 INFO CookieTest [main] Name: _ym_isad
+2021-07-24 21:11:14,789 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,789 INFO CookieTest [main] Value: 2
+2021-07-24 21:11:14,789 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,790 INFO CookieTest [main] Domain: yandex.ru
+2021-07-24 21:11:14,791 INFO CookieTest [main] Expiry: Tue Jul 22 21:11:12 MSK 2031
+2021-07-24 21:11:14,791 INFO CookieTest [main] Name: font_loaded
+2021-07-24 21:11:14,791 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,792 INFO CookieTest [main] Value: YSv1
+2021-07-24 21:11:14,792 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,792 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,792 INFO CookieTest [main] Expiry: Mon Nov 01 21:11:13 MSK 2021
+2021-07-24 21:11:14,793 INFO CookieTest [main] Name: yabs-frequency
+2021-07-24 21:11:14,793 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,793 INFO CookieTest [main] Value: /5/0000000000000000/Tdn1ROO0003uGIU2OK5jXW000FX18qMIGMs60000-44X/
+2021-07-24 21:11:14,793 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,794 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,794 INFO CookieTest [main] Expiry: Tue Jul 22 21:11:12 MSK 2031
+2021-07-24 21:11:14,794 INFO CookieTest [main] Name: yandexuid
+2021-07-24 21:11:14,797 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,797 INFO CookieTest [main] Value: 3174117631627150289
+2021-07-24 21:11:14,797 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:14,797 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-24 21:11:14,798 INFO CookieTest [main] Expiry: Sun Jul 24 21:11:12 MSK 2022
+2021-07-24 21:11:14,799 INFO CookieTest [main] Name: ymex
+2021-07-24 21:11:14,799 INFO CookieTest [main] Path: /
+2021-07-24 21:11:14,799 INFO CookieTest [main] Value: 1942510291.yrts.1627150291
+2021-07-24 21:11:14,799 INFO CookieTest [main] --------------------------------------
+2021-07-24 21:11:27,702 INFO CookieTest [main] Драйвер остановлен!
+2021-07-24 21:11:27,716 INFO LogsTest [main] env = chrome
+2021-07-24 21:11:27,757 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 21:11:33,807 INFO LogsTest [main] Драйвер стартовал!
+2021-07-24 21:11:43,707 INFO LogsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-24 21:11:43,708 INFO LogsTest [main] Логи браузера
+2021-07-24 21:11:43,721 INFO LogsTest [main] --------------------------------------
+2021-07-24 21:11:55,026 INFO LogsTest [main] Драйвер остановлен!
+2021-07-24 21:11:55,031 INFO SampleTest [main] env = firefox
+2021-07-24 21:11:55,063 INFO WebDriverFactory [main] Драйвер для браузера Mozilla Firefox
+2021-07-24 21:12:04,856 INFO SampleTest [main] Драйвер стартовал!
+2021-07-24 21:12:10,148 INFO SampleTest [main] Открыта страница Yandex
+2021-07-24 21:12:10,168 INFO SampleTest [main] title = Яндекс
+2021-07-24 21:12:10,203 INFO SampleTest [main] current URL = https://yandex.ru/
+2021-07-24 21:12:25,686 INFO SampleTest [main] Драйвер остановлен!
+2021-07-24 21:12:25,700 INFO TimeOutsTests [main] env = chrome
+2021-07-24 21:12:25,726 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 21:12:29,122 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-24 21:12:34,079 INFO TimeOutsTests [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-24 21:12:34,810 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-24 21:12:34,812 INFO TimeOutsTests [main] env = chrome
+2021-07-24 21:12:34,857 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 21:12:37,406 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-24 21:12:38,279 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-24 21:15:40,800 INFO TimeOutsTests [main] env = chrome
+2021-07-24 21:15:42,195 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-24 21:15:44,989 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-24 21:15:45,793 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-25 03:45:43,826 INFO BrowserWindowsTest [main] env = chrome
+2021-07-25 03:45:47,529 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:46:05,253 INFO BrowserWindowsTest [main] Драйвер стартовал!
+2021-07-25 03:46:16,203 INFO BrowserWindowsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 03:46:16,231 INFO BrowserWindowsTest [main] Browser Window Height: 768
+2021-07-25 03:46:16,249 INFO BrowserWindowsTest [main] Browser Window Width: 1366
+2021-07-25 03:46:27,189 INFO BrowserWindowsTest [main] Драйвер остановлен!
+2021-07-25 03:51:11,390 INFO BrowserWindowsTest [main] env = chrome
+2021-07-25 03:51:13,354 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:51:19,250 INFO BrowserWindowsTest [main] Драйвер стартовал!
+2021-07-25 03:51:29,617 INFO BrowserWindowsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 03:51:29,643 INFO BrowserWindowsTest [main] Browser Window Height: 768
+2021-07-25 03:51:29,655 INFO BrowserWindowsTest [main] Browser Window Width: 1366
+2021-07-25 03:51:41,550 INFO BrowserWindowsTest [main] Драйвер остановлен!
+2021-07-25 03:51:41,565 INFO CookieTest [main] env = chrome
+2021-07-25 03:51:41,624 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:51:44,983 INFO CookieTest [main] Драйвер стартовал!
+2021-07-25 03:51:56,364 INFO CookieTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 03:51:56,364 INFO CookieTest [main] Куки, которое добавили мы
+2021-07-25 03:51:57,514 INFO CookieTest [main] Domain: yandex.ru
+2021-07-25 03:51:57,515 INFO CookieTest [main] Expiry: null
+2021-07-25 03:51:57,515 INFO CookieTest [main] Name: Cookie 1
+2021-07-25 03:51:57,515 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,516 INFO CookieTest [main] Value: This Is Cookie 1
+2021-07-25 03:51:57,516 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,516 INFO CookieTest [main] Куки, которое добавил Yandex
+2021-07-25 03:51:57,590 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,595 INFO CookieTest [main] Expiry: Tue Jul 25 03:51:48 MSK 2023
+2021-07-25 03:51:57,596 INFO CookieTest [main] Name: is_gdpr
+2021-07-25 03:51:57,597 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,597 INFO CookieTest [main] Value: 0
+2021-07-25 03:51:57,597 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,597 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,598 INFO CookieTest [main] Expiry: Tue Aug 24 03:51:48 MSK 2021
+2021-07-25 03:51:57,598 INFO CookieTest [main] Name: yandex_gid
+2021-07-25 03:51:57,598 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,599 INFO CookieTest [main] Value: 13
+2021-07-25 03:51:57,599 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,600 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,602 INFO CookieTest [main] Expiry: Tue Aug 24 03:52:13 MSK 2021
+2021-07-25 03:51:57,602 INFO CookieTest [main] Name: _yasc
+2021-07-25 03:51:57,602 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,602 INFO CookieTest [main] Value: WOY+uZnriqNHq5kJWSHrIBxuy/iqG/zkV1aBPHQlSvaD4dtKXkWWyfln
+2021-07-25 03:51:57,603 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,603 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,603 INFO CookieTest [main] Expiry: Tue Jul 25 03:51:48 MSK 2023
+2021-07-25 03:51:57,604 INFO CookieTest [main] Name: i
+2021-07-25 03:51:57,606 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,607 INFO CookieTest [main] Value: uLPCkam4YNQ/KwghJwVBVvKSNFTNZwIQDOI+yiuqd0DqOcw/YFkmEEYIjdU46f/v4cCDr5FxBwHNCL9VB4r6OAfxtuQ=
+2021-07-25 03:51:57,607 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,609 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,614 INFO CookieTest [main] Expiry: Mon Jul 25 03:51:54 MSK 2022
+2021-07-25 03:51:57,614 INFO CookieTest [main] Name: _ym_d
+2021-07-25 03:51:57,615 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,615 INFO CookieTest [main] Value: 1627174314
+2021-07-25 03:51:57,615 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,615 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,615 INFO CookieTest [main] Expiry: Wed Jul 23 03:51:54 MSK 2031
+2021-07-25 03:51:57,616 INFO CookieTest [main] Name: yuidss
+2021-07-25 03:51:57,616 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,616 INFO CookieTest [main] Value: 4113269721627174327
+2021-07-25 03:51:57,618 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,619 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,619 INFO CookieTest [main] Expiry: Wed Jul 24 03:51:53 MSK 2024
+2021-07-25 03:51:57,619 INFO CookieTest [main] Name: mda
+2021-07-25 03:51:57,620 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,620 INFO CookieTest [main] Value: 0
+2021-07-25 03:51:57,620 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,620 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,621 INFO CookieTest [main] Expiry: Wed Jul 23 03:51:53 MSK 2031
+2021-07-25 03:51:57,621 INFO CookieTest [main] Name: my
+2021-07-25 03:51:57,621 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,626 INFO CookieTest [main] Value: YwA=
+2021-07-25 03:51:57,626 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,626 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,627 INFO CookieTest [main] Expiry: Mon Jul 25 03:51:55 MSK 2022
+2021-07-25 03:51:57,632 INFO CookieTest [main] Name: amcuid
+2021-07-25 03:51:57,633 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,633 INFO CookieTest [main] Value: 4114664961627174334
+2021-07-25 03:51:57,633 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,633 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,634 INFO CookieTest [main] Expiry: null
+2021-07-25 03:51:57,634 INFO CookieTest [main] Name: gdpr
+2021-07-25 03:51:57,635 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,635 INFO CookieTest [main] Value: 0
+2021-07-25 03:51:57,636 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,636 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,636 INFO CookieTest [main] Expiry: Mon Jul 25 03:51:54 MSK 2022
+2021-07-25 03:51:57,636 INFO CookieTest [main] Name: _ym_uid
+2021-07-25 03:51:57,637 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,637 INFO CookieTest [main] Value: 1627174313121464745
+2021-07-25 03:51:57,637 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,637 INFO CookieTest [main] Domain: yandex.ru
+2021-07-25 03:51:57,638 INFO CookieTest [main] Expiry: null
+2021-07-25 03:51:57,639 INFO CookieTest [main] Name: Cookie 1
+2021-07-25 03:51:57,639 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,640 INFO CookieTest [main] Value: This Is Cookie 1
+2021-07-25 03:51:57,640 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,640 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,640 INFO CookieTest [main] Expiry: Tue Jul 25 03:51:48 MSK 2023
+2021-07-25 03:51:57,641 INFO CookieTest [main] Name: is_gdpr_b
+2021-07-25 03:51:57,641 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,641 INFO CookieTest [main] Value: CPT0GBDrOygC
+2021-07-25 03:51:57,642 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,642 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,642 INFO CookieTest [main] Expiry: Sun Jul 25 23:51:54 MSK 2021
+2021-07-25 03:51:57,643 INFO CookieTest [main] Name: _ym_isad
+2021-07-25 03:51:57,643 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,643 INFO CookieTest [main] Value: 2
+2021-07-25 03:51:57,643 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,643 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,644 INFO CookieTest [main] Expiry: Wed Jul 23 03:51:54 MSK 2031
+2021-07-25 03:51:57,644 INFO CookieTest [main] Name: yp
+2021-07-25 03:51:57,644 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,644 INFO CookieTest [main] Value: 1642942332.szm.1:1366x768:1034x572#1629766328.ygu.1
+2021-07-25 03:51:57,645 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,645 INFO CookieTest [main] Domain: yandex.ru
+2021-07-25 03:51:57,645 INFO CookieTest [main] Expiry: Wed Jul 23 03:51:54 MSK 2031
+2021-07-25 03:51:57,645 INFO CookieTest [main] Name: font_loaded
+2021-07-25 03:51:57,646 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,646 INFO CookieTest [main] Value: YSv1
+2021-07-25 03:51:57,646 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,646 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,646 INFO CookieTest [main] Expiry: Wed Jul 23 03:51:54 MSK 2031
+2021-07-25 03:51:57,647 INFO CookieTest [main] Name: yandexuid
+2021-07-25 03:51:57,647 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,647 INFO CookieTest [main] Value: 4113269721627174327
+2021-07-25 03:51:57,647 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,647 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,648 INFO CookieTest [main] Expiry: Tue Nov 02 03:51:53 MSK 2021
+2021-07-25 03:51:57,648 INFO CookieTest [main] Name: yabs-frequency
+2021-07-25 03:51:57,648 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,648 INFO CookieTest [main] Value: /5/0000000000000000/Wc51ROO0003yGIDsV45jXW000Fn19m00/
+2021-07-25 03:51:57,649 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:51:57,649 INFO CookieTest [main] Domain: .yandex.ru
+2021-07-25 03:51:57,649 INFO CookieTest [main] Expiry: Mon Jul 25 03:51:54 MSK 2022
+2021-07-25 03:51:57,650 INFO CookieTest [main] Name: ymex
+2021-07-25 03:51:57,651 INFO CookieTest [main] Path: /
+2021-07-25 03:51:57,652 INFO CookieTest [main] Value: 1942534333.yrts.1627174333
+2021-07-25 03:51:57,652 INFO CookieTest [main] --------------------------------------
+2021-07-25 03:52:09,531 INFO CookieTest [main] Драйвер остановлен!
+2021-07-25 03:52:09,544 INFO LogsTest [main] env = chrome
+2021-07-25 03:52:09,625 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:52:13,305 INFO LogsTest [main] Драйвер стартовал!
+2021-07-25 03:52:20,533 INFO LogsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 03:52:20,534 INFO LogsTest [main] Логи браузера
+2021-07-25 03:52:20,558 INFO LogsTest [main] --------------------------------------
+2021-07-25 03:52:31,369 INFO LogsTest [main] Драйвер остановлен!
+2021-07-25 03:52:31,376 INFO SampleTest [main] env = firefox
+2021-07-25 03:52:31,718 INFO WebDriverFactory [main] Драйвер для браузера Mozilla Firefox
+2021-07-25 03:53:15,534 INFO SampleTest [main] Драйвер стартовал!
+2021-07-25 03:53:28,058 INFO SampleTest [main] Открыта страница Yandex
+2021-07-25 03:53:28,091 INFO SampleTest [main] title = Яндекс
+2021-07-25 03:53:28,100 INFO SampleTest [main] current URL = https://yandex.ru/
+2021-07-25 03:53:32,934 INFO SampleTest [main] Драйвер остановлен!
+2021-07-25 03:53:32,941 INFO TimeOutsTests [main] env = chrome
+2021-07-25 03:53:32,985 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:53:36,762 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-25 03:53:41,635 INFO TimeOutsTests [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 03:53:42,326 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-25 03:53:42,328 INFO TimeOutsTests [main] env = chrome
+2021-07-25 03:53:42,351 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:53:44,550 INFO TimeOutsTests [main] Драйвер стартовал!
+2021-07-25 03:53:45,280 INFO TimeOutsTests [main] Драйвер остановлен!
+2021-07-25 03:54:51,379 INFO BrowserWindowsTest [main] env = chrome
+2021-07-25 03:54:53,372 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 03:54:56,468 INFO BrowserWindowsTest [main] Драйвер стартовал!
+2021-07-25 03:55:03,214 INFO BrowserWindowsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 03:55:03,240 INFO BrowserWindowsTest [main] Browser Window Height: 768
+2021-07-25 03:55:03,268 INFO BrowserWindowsTest [main] Browser Window Width: 1366
+2021-07-25 03:55:14,039 INFO BrowserWindowsTest [main] Драйвер остановлен!
+2021-07-25 04:19:24,173 INFO WebDriverFactory [main] Драйвер для браузера Google Chrome
+2021-07-25 04:19:30,765 INFO BrowserOptionsTest [main] Драйвер стартовал!
+2021-07-25 04:19:42,455 INFO BrowserOptionsTest [main] Открыта страница Yandex - https://yandex.ru/
+2021-07-25 04:19:57,472 INFO BrowserOptionsTest [main] Драйвер остановлен!
+2021-07-25 04:41:02,562 INFO TimeOutsTests [main] env = chrome
+2021-07-25 04:41:04,026 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Google Chrome
+2021-07-25 04:41:13,685 INFO TimeOutsTests [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-25 04:41:41,831 INFO TimeOutsTests [main] РћС‚РєСЂС‹С‚Р° СЃС‚СЂР°РЅРёС†Р° Yandex - https://yandex.ru/
+2021-07-25 04:41:42,625 INFO TimeOutsTests [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
+2021-07-25 04:41:42,631 INFO TimeOutsTests [main] env = chrome
+2021-07-25 04:41:42,668 INFO WebDriverFactory [main] Р”СЂР°Р№РІРµСЂ РґР»СЏ Р±СЂР°СѓР·РµСЂР° Google Chrome
+2021-07-25 04:41:50,526 INFO TimeOutsTests [main] Р”СЂР°Р№РІРµСЂ СЃС‚Р°СЂС‚РѕРІР°Р»!
+2021-07-25 04:41:51,561 INFO TimeOutsTests [main] Р”СЂР°Р№РІРµСЂ РѕСЃС‚Р°РЅРѕРІР»РµРЅ!
