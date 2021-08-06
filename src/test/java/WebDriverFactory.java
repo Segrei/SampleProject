@@ -9,6 +9,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
 import org.openqa.selenium.remote.CapabilityType;
@@ -16,27 +17,53 @@ import org.openqa.selenium.remote.CapabilityType;
 public class WebDriverFactory {
   private static Logger logger = LogManager.getLogger(WebDriverFactory.class);
 
-  public static WebDriver getDriver(String browserName) {
-    ChromeOptions options = new ChromeOptions();
+  public static WebDriver getDriver(String browserName, String optionName) {
+
+    PageLoadStrategy pageLoadStrategy=null;
+
+    switch (optionName) {
+      case "normal":
+        pageLoadStrategy = PageLoadStrategy.NORMAL;
+        break;
+      case "eager":
+        pageLoadStrategy = PageLoadStrategy.EAGER;
+        break;
+      case "none":
+        pageLoadStrategy = PageLoadStrategy.NONE;
+        break;
+      default:
+        pageLoadStrategy = PageLoadStrategy.NORMAL;
+        logger.info("Стратегии загрузки с таким названием нет. По умолчанию NORMAL");
+        break;
+    }
+
     switch (browserName) {
       case "chrome":
-      case "\'chrome\'":
         WebDriverManager.chromedriver().setup();
         logger.info("Драйвер для браузера Google Chrome");
-        options.setCapability(CapabilityType.PLATFORM_NAME, Platform.WINDOWS);
-        options.setCapability(CapabilityType.UNEXPECTED_ALERT_BEHAVIOUR, UnexpectedAlertBehaviour.DISMISS);
-        options.setCapability(CapabilityType.SUPPORTS_JAVASCRIPT, false);
-        options.setAcceptInsecureCerts(false);
-        options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        ChromeOptions optionsChrome = new ChromeOptions();
+        optionsChrome.setCapability(CapabilityType.PAGE_LOAD_STRATEGY, pageLoadStrategy);
+        logger.info("Стратегии загрузки страницы: " + pageLoadStrategy.toString());
 
-        options.addArguments("--start-maximized");
-        options.addArguments("--incognito");
-        return new ChromeDriver(options);
+        optionsChrome.setCapability(CapabilityType.UNEXPECTED_ALERT_BEHAVIOUR, UnexpectedAlertBehaviour.DISMISS);
+        optionsChrome.setCapability(CapabilityType.SUPPORTS_JAVASCRIPT, true);
+
+        optionsChrome.addArguments("--start-fullscreen");
+        optionsChrome.addArguments("--incognito");
+        return new ChromeDriver(optionsChrome);
       case "firefox":
-      case "\'firefox\'":
         WebDriverManager.firefoxdriver().setup();
         logger.info("Драйвер для браузера Mozilla Firefox");
-        return new FirefoxDriver();
+
+        FirefoxOptions optionsFirefox = new FirefoxOptions();
+        optionsFirefox.setCapability(CapabilityType.PAGE_LOAD_STRATEGY, pageLoadStrategy);
+        optionsFirefox.setCapability(CapabilityType.UNEXPECTED_ALERT_BEHAVIOUR, UnexpectedAlertBehaviour.DISMISS);
+        optionsFirefox.setCapability(CapabilityType.SUPPORTS_JAVASCRIPT, true);
+
+        optionsFirefox.addArguments("-kiosk");
+        optionsFirefox.addArguments("-private");
+        return new FirefoxDriver(optionsFirefox);
+
       default:
         throw new RuntimeException("Incorrect browser name");
     }

@@ -11,26 +11,28 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.CapabilityType;
 
 import java.util.List;
+import java.util.Locale;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 public class SampleTest {
   protected static WebDriver driver;
   private Logger logger = LogManager.getLogger(SampleTest.class);
-  String env = System.getProperty("browser", "chrome");
-
+  String env = System.getProperty("browser", "chrome").toLowerCase();
+  String option = System.getProperty("option","normal").toLowerCase();
   @BeforeEach
   public void setUp() {
-    logger.info("env = " + env);
-    driver = WebDriverFactory.getDriver(env.toLowerCase());
+    logger.info("Браузер выбран: " + env);
+    logger.info("Option выбран: " + option);
+    driver = WebDriverFactory.getDriver(env,option);
     logger.info("Драйвер стартовал!");
   }
 
   @Test
   public void openPage() {
     driver.get("https://www.dns-shop.ru/");
-    driver.manage().window().fullscreen();
-    driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+    //driver.manage().window().fullscreen();
+    //driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
     logger.info("Открыта страница DNS - " + "https://www.dns-shop.ru/");
     String title = driver.getTitle();
     String currentUrl = driver.getCurrentUrl();
