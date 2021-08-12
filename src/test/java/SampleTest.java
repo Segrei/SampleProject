@@ -1,19 +1,11 @@
-import com.sun.source.doctree.SeeTree;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.remote.CapabilityType;
-
 import java.util.List;
-import java.util.Locale;
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
 
 public class SampleTest {
   protected static WebDriver driver;
@@ -43,6 +35,12 @@ public class SampleTest {
     WebElement yesButton = driver.findElement(By.xpath(yesButtonXpath));
     yesButton.click();
     logger.info("Кнопку \"Да\" нажали.");
+
+    try {
+      Thread.sleep(5000);
+    } catch (InterruptedException e) {
+      e.printStackTrace();
+    }
 
     String bytTehnikaXpath = ".//a[text()='Бытовая техника']";
     WebElement bytTehnika = driver.findElement(By.xpath(bytTehnikaXpath));
